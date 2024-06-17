@@ -30,7 +30,7 @@ public class CapabilitiesResult
     /// Initializes a new instance of the <see cref="CapabilitiesResult"/> class.
     /// </summary>
     [JsonConstructor]
-    internal CapabilitiesResult()
+    public CapabilitiesResult()
     {
     }
 
